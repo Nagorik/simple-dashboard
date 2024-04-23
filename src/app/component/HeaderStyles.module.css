@@ -1,0 +1,12 @@
+/* HeaderStyles.module.css */
+.userInfo {
+    position: absolute;
+    top: 100%; /* Distance from the top of the navbar */
+    right: 0;
+    background-color: #ffffff;
+    padding: 10px;
+    border: 1px solid #cccccc;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+  }
+  
